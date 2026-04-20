@@ -19,7 +19,7 @@ TerraVision is a deep learning web application that classifies satellite imagery
 
 ## Live Demo
 
-🔗 [terravision.streamlit.app](https://terravision-ub.streamlit.app)
+🔗 [terravision-ub.streamlit.app](https://terravision-ub.streamlit.app)
 
 ## Setup & Run Locally
 
